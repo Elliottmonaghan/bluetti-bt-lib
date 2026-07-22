@@ -9,6 +9,7 @@ from .DecimalField import *
 from .EnumField import *
 from .SelectField import *
 from .SerialNumberField import *
+from .SIntField import *
 from .StringField import *
 from .SwapStringField import *
 from .SwitchField import *
